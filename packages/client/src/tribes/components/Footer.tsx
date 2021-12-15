@@ -4,15 +4,13 @@ const Footer = () => {
     return (
         <footer>
             <div className="info">
-                Welcome to Hyperhack🚀
+                Subscribe to Jacob Tucker's Youtube Channel 
                 <br />
                 <br />
-                Hyperhack is not just for developers.
-                Our team designed this hackathon in a way to include people from all
-                kinds of roles,such as architects, product managers, designers.
+                Please join and support.
                 <br />
                 <br />
-                <a href="https://docs-hyperhack.decentology.com/" target="_blank" rel="noreferrer">Learn More</a>
+                <a href="https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw?sub_confirmation=1" target="_blank" rel="noreferrer">Subscribe</a>
             </div>
         </footer>
     )

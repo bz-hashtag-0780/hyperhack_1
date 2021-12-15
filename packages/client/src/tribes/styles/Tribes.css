@@ -47,6 +47,10 @@ a {
   color: var(--color-theme-white);
 }
 
+/* h6 {
+  line-height: 50px;
+} */
+
 .logo {
   font-size: 2.5rem;
 }
@@ -89,6 +93,18 @@ a {
     rgba(180, 58, 58, 100) 85%,
     rgba(255, 255, 255, 100) 100%
   );
+}
+
+.refresh {
+  font-family: "Press Start 2P";
+  cursor: pointer;
+  margin-top: 1rem;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  color: var(--color-theme-white);
+  width: 6.5rem;
+  height: 2.2rem;
+  background: rgb(143, 143, 143);
 }
 
 .error {
